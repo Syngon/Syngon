@@ -33,13 +33,6 @@
 
 ###
 
-<h3 align="left">🎵 Spotify</h3>
-
-###
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12183716216&unique={true|1|on|yes})
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -59,6 +52,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
 </div>
+
+###
+
+<h3 align="left">🎵 Spotify</h3>
+
+###
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12183716216&unique={true|1|on|yes})
 
 ###
 
