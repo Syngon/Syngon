@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Pedro Monnerat from Brazil!<br><br>- 📚 I'm currently Phoenix Live View<br>- ⚡ In my free time I like to watch some sports, listen to music and code a little bit.</p>
+<p align="left">I'm Pedro Monnerat from Brazil!<br><br>- 📚 I'm currently studying Phoenix Live View<br>- ⚡ In my free time I like to watch some sports, listen to music and code a little bit.</p>
 
 ###
 
